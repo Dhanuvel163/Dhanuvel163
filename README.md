@@ -34,11 +34,19 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-[![Dhanavel163's github stats](https://github-readme-stats.vercel.app/api?username=Dhanavel163)](https://github.com/Dhanavel163ghazra/github-readme-stats)
+<a href="https://github.com/Dhanuvel163/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.Dhanuvel163.vercel.app/api?username=Dhanuvel163&show_icons=true&include_all_commits=true&theme=radical" alt="Dhanuvel163's github stats" />
+</a>
+<a href="https://github.com/Dhanuvel163/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuvel163&layout=compact&theme=radical" />
+</a>
 
-</details>
+<a href="https://github.com/Dhanuvel163/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanuvel163&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/Dhanuvel163/Dhanuvel163.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanuvel163&repo=Dhanuvel163.github.io&theme=radical" />
+</a>
 
 [instagram]: https://www.instagram.com/dhanavel_vfc/
 [linkedin]: https://www.linkedin.com/in/dhanavel-ramachandran-721802193/
