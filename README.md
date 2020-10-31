@@ -5,7 +5,7 @@
 ## I'm a Full Stack web and mobile developer 🧑🏻‍💻 !!
 
 - ❤️ I love to play with Javascript Frameworks and learn new techs
-- 🔥 Ml is also a part i have started touching !
+- 🔥 ML is also a part i have started touching !
 - 🤖 Looking forward to Contribute more to projects
 - ⚡ Fun fact: I love to listen music , watch series and play cricket
 
@@ -35,7 +35,7 @@
 <br />
 
 <a href="https://github.com/Dhanuvel163/github-readme-stats">
-  <img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanuvel163&show_icons=true&include_all_commits=true&theme=radical" alt="Dhanuvel163's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanuvel163&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="Dhanuvel163's github stats" />
 </a>
 <a href="https://github.com/Dhanuvel163/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuvel163&layout=compact&theme=radical" />
