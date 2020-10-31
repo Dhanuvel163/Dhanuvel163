@@ -41,12 +41,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuvel163&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/Dhanuvel163/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanuvel163&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/Dhanuvel163/Dhanuvel163.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanuvel163&repo=Dhanuvel163.github.io&theme=radical" />
-</a>
-
 [instagram]: https://www.instagram.com/dhanavel_vfc/
 [linkedin]: https://www.linkedin.com/in/dhanavel-ramachandran-721802193/
