@@ -1,7 +1,5 @@
 # Hi Guys ,Its me [Dhanavel][linkedin] ⚙️
 
-[![Linkedin](https://www.linkedin.com/in/dhanavel-ramachandran-721802193/)](https://www.linkedin.com/in/dhanavel-ramachandran-721802193/)
-
 ## I'm a Full Stack web and mobile developer 🧑🏻‍💻 !!
 
 - ❤️ I love to play with Javascript Frameworks and learn new techs
@@ -35,7 +33,7 @@
 <br />
 
 <a href="https://github.com/Dhanuvel163/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanuvel163&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="Dhanuvel163's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanuvel163&count_private=true&show_icons=true&include_all_commits=true&theme=onedark" alt="Dhanuvel163's github stats" />
 </a>
 <a href="https://github.com/Dhanuvel163/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuvel163&layout=compact&theme=radical" />
