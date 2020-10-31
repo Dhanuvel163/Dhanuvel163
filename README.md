@@ -35,7 +35,7 @@
 <br />
 
 <a href="https://github.com/Dhanuvel163/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanuvel163&show_icons=true&include_all_commits=true&theme=radical" alt="Dhanuvel163's github stats" />
+  <img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanuvel163&show_icons=true&include_all_commits=true&theme=radical" alt="Dhanuvel163's github stats" />
 </a>
 <a href="https://github.com/Dhanuvel163/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuvel163&layout=compact&theme=radical" />
