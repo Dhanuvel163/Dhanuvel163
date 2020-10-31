@@ -1,4 +1,4 @@
-### Hi Guys ,Its me [Dhanavel][linkedin] ⚙️
+# Hi Guys ,Its me [Dhanavel][linkedin] ⚙️
 
 [![Linkedin](https://www.linkedin.com/in/dhanavel-ramachandran-721802193/)](https://www.linkedin.com/in/dhanavel-ramachandran-721802193/)
 
@@ -36,6 +36,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+[![Dhanavel163's github stats](https://github-readme-stats.vercel.app/api?username=Dhanavel163)](https://github.com/anuraghazra/github-readme-stats)
 
   <img align="left" alt="Dhanavel163's GitHub Stats" src="https://github-readme-stats.Dhanavel163.vercel.app/api?username=Dhanavel163&show_icons=true&hide_border=true" />
 
