@@ -1,4 +1,4 @@
-# Hi Guys ,Its me [Dhanavel][linkedin] ⚙️
+# [Dhanavel][linkedin] ⚙️
 
 ## I'm a Full Stack web and mobile developer 🧑🏻‍💻 !!
 
