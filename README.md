@@ -1,6 +1,6 @@
 # [Dhanavel][linkedin] ⚙️
 
-## I'm a Full Stack web and mobile developer 🧑🏻‍💻 !!
+## I'm a Full Stack developer 🧑🏻‍💻 !!
 
 - ❤️ I love to play with Javascript Frameworks and learn new techs
 - 🔥 ML is also a part i have started touching !
