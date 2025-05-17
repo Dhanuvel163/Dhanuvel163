@@ -8,8 +8,8 @@ design, application performance optimization, and rapid learning of
 new skills. Enthusiastic about exploring emerging technologies.
 
 ## LET'S CONNECT:
-[<img align="left" alt="Dhanavel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dhanavel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Dhanavel" width="22px" src="https://i.ibb.co/Y46nJnzW/linkedin-2815969-640.jpg" />][linkedin]
+[<img align="left" alt="Dhanavel" width="22px" src="https://i.ibb.co/ymhKQcNg/instagram-6338393-1280.webp" />][instagram]
 <br />
 
 ## SKILLS:
